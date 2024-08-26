@@ -311,7 +311,7 @@ __build__~=0xC77 and __build__~=0xC80 and __build__~=0xF57 and __build__~=0xF59 
 __build__~=0xCD9 and __build__~=0x107C and __build__~=0xFC0 and __build__~=0xE03 and __build__~=0xE02 and __build__~=0xE01 and __build__~=0xDFF and __build__~=0xDFE and __build__~=0xDFD and __build__~=0xBCE and __build__~=0xDF5 and __build__~=0xDF4 and __build__~=0xDF1 and __build__~=0xDE8 and __build__~=0xEBC and __build__~=0xDF9 and __build__~=0xF0F and __build__~=0xBF3 and  __build__~=0xBC7 and __build__~=0xC11 and __build__~=0xC6E and __build__~=0xBF6 and __build__~=0xEA1 and __build__~=0x103B and __version__:match("3%.5%.6[56789]")
 
 
-
+pro = __build__==0x162B
 --sell_average_price = {}
 --buy_average_price = {}
 
